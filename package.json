@@ -1,0 +1,22 @@
+{
+  "name": "mocha_node_vscode",
+  "version": "1.0.0",
+  "description": "Podendo debugar os testes unitarios escritos em MOCHA",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfessorMarcolan/mocha_node_vscode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProfessorMarcolan/mocha_node_vscode/issues"
+  },
+  "homepage": "https://github.com/ProfessorMarcolan/mocha_node_vscode#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
